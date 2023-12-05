@@ -1,6 +1,7 @@
 # EDA web App
 
 Exploratory Data Analysis (EDA) Web App
+
 Abstract
 The EDA Web App is a data analysis tool designed to provide users with an intuitive interface for uploading, analyzing, and visualizing datasets. The main purpose of the project was to simplify the exploratory data analysis process by automating common tasks such as statistical summary generation, correlation analysis, and data visualization. As a result, users can obtain insights from their data quickly and interactively, making the app a useful asset for researchers, data scientists, and students.
 
